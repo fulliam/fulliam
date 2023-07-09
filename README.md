@@ -26,16 +26,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-## :man_technologist: About Me :
+# :man_technologist: About Me :
 **I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.**
 
-- **:telescope: I’m contributing to frontend and backend for building web applications.**
+- **:telescope:  I’m contributing to frontend and backend for building web applications.**
 
-- **:seedling: Exploring Technical Content Writing.**
+- **:seedling:  Exploring Technical Content Writing.**
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap:  In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-### :mailbox: How to reach me:  [![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/dev_too)
+# :mailbox:  How to reach me:  [![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/dev_too)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulliam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
