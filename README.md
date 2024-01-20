@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/WNJATm9pwnjpjI1i0g/giphy.gif" width="500" height="100" />
+  <img src="https://media4.giphy.com/media/WNJATm9pwnjpjI1i0g/giphy.gif" width="500" height="200" />
 </div>
 
 <div id="body" align="center">
-  <h1>
+  <h1 style="position: relative; top: -200px;">
     Heeey there!
   </h1>
 </div>
