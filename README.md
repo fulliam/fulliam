@@ -3,7 +3,7 @@
 </div>
 
 <div id="body" align="center">
-  <h1 color="red">
+  <h1>
     welcome to the best cooperation of your life
   </h1>
 </div>
