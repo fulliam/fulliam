@@ -8,7 +8,9 @@
   </h1>
 </div>
 
-# :mailbox:  How to reach me:  [![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/dev_too) <img src=https://komarev.com/ghpvc/?username=fulliam />
+# :mailbox:  How to reach me:  [![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/dev_too) 
+
+<img src=https://komarev.com/ghpvc/?username=fulliam />
 
 ### :hammer_and_wrench: Favorite Languages and Tools :
 <div>
