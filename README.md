@@ -8,15 +8,9 @@
   </h1>
 </div>
 
-<div>
-  <div aligh="left">
 <img src=https://komarev.com/ghpvc/?username=fulliam />
-  </div>
-  <div aligh="right">
-# :mailbox:  How to reach me:  [![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/dev_too) 
-  </div>
-</div>
 
+# :mailbox:  How to reach me:  [![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/dev_too) 
 
 ### :hammer_and_wrench: Favorite Languages and Tools :
 <div>
