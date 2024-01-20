@@ -7,7 +7,7 @@
     welcome to the best cooperation of your life
   </h1>
 </div>
-<img src=https://komarev.com/ghpvc/?username=fulliam />
+<img src=https://komarev.com/ghpvc/?username=fulliam /> # :mailbox:  How to reach me:  [![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/dev_too)
 
 ### :hammer_and_wrench: Favorite Languages and Tools :
 <div>
@@ -33,8 +33,6 @@
 - **:seedling:  Exploring Technical Content Writing.**
 
 - :zap:  In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-# :mailbox:  How to reach me:  [![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/dev_too)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulliam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
