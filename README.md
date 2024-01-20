@@ -7,7 +7,8 @@
     welcome to the best cooperation of your life
   </h1>
 </div>
-<img src=https://komarev.com/ghpvc/?username=fulliam /> 
+<img src=https://komarev.com/ghpvc/?username=fulliam />
+
 # :mailbox:  How to reach me:  [![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/dev_too)
 
 ### :hammer_and_wrench: Favorite Languages and Tools :
