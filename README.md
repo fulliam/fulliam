@@ -5,7 +5,7 @@
 <div id="body" align="center">
   <h1>
     Heeey there!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media4.giphy.com/media/WNJATm9pwnjpjI1i0g/giphy.gif" width="30px"/>
   </h1>
 </div>
 <img src=https://komarev.com/ghpvc/?username=fulliam />
