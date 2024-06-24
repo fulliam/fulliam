@@ -9,7 +9,7 @@
 </div>
 <img src=https://komarev.com/ghpvc/?username=fulliam />
 
-# :mailbox:  How to reach me:  [![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/dev_too) 
+# :mailbox:  How to reach me:  [![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/fulliam) 
 
 ### :hammer_and_wrench: Favorite Languages and Tools :
 <div>
